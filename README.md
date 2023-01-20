@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there I'm Berkay 👋 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 [![Twitter: Berkay Üzümcü](https://img.shields.io/twitter/follow/berkayuzm?style=social)](https://twitter.com/berkayuzm)
 [![Linkedin: Berkay Üzümcü](https://img.shields.io/badge/-berkayuzm-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/berkayuzm/)](https://www.linkedin.com/in/berkayuzm/)
 [![GitHub Berkay Üzümcü](https://img.shields.io/github/followers/berkayuzm?label=follow&style=social)](https://github.com/berkayuzm)
