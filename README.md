@@ -2,7 +2,6 @@
 [![Twitter: Berkay Üzümcü](https://img.shields.io/twitter/follow/berkayuzm?style=social)](https://twitter.com/berkayuzm)
 [![Linkedin: Berkay Üzümcü](https://img.shields.io/badge/-berkayuzm-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/berkayuzm/)](https://www.linkedin.com/in/berkayuzm/)
 [![GitHub Berkay Üzümcü](https://img.shields.io/github/followers/berkayuzm?label=follow&style=social)](https://github.com/berkayuzm)
-![](https://visitor-badge.glitch.me/badge?page_id=berkayuzm.berkayuzm)
 <!--
 **berkayuzm/berkayuzm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
