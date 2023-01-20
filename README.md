@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+[![Twitter: Berkay Üzümcü](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/berkayuzm)
+[![Linkedin: thaianebraga](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/berkayuzm/)](https://www.linkedin.com/in/berkayuzm/)
+[![GitHub Thaiane](https://img.shields.io/github/followers/berkayuzm?label=follow&style=social)](https://github.com/berkayuzm)
 <!--
 **berkayuzm/berkayuzm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
