@@ -30,7 +30,7 @@
 <hr>
 
 
-- 🔭I’m currently developing Find to Learn https://play.google.com/store/apps/details?id=com.berkayuzumcu.FindtoLearn <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 🌱 I’m currently learning .NetCore <code><img title=".NetCore" height="25" src="images/dotnetcore.svg"></code>
+- 🔭I’m currently developing Find to Learn <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> https://play.google.com/store/apps/details?id=com.berkayuzumcu.FindtoLearn 
+- 🌱 I’m currently learning <code><img title=".NetCore" height="25" src="images/dotnetcore.svg"></code>
 
 
