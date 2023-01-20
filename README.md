@@ -1,4 +1,4 @@
-### <h1 align="center">Hi there I'm Berkay 👋</h1> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+### <h1 align="center">Hi there I'm Berkay 👋</h1> 
 [![Twitter: Berkay Üzümcü](https://img.shields.io/twitter/follow/berkayuzm?style=social)](https://twitter.com/berkayuzm)
 [![Linkedin: Berkay Üzümcü](https://img.shields.io/badge/-berkayuzm-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/berkayuzm/)](https://www.linkedin.com/in/berkayuzm/)
 [![GitHub Berkay Üzümcü](https://img.shields.io/github/followers/berkayuzm?label=follow&style=social)](https://github.com/berkayuzm)
@@ -28,17 +28,9 @@
   <code><img title="npm" height="25" src="images/npm.svg"></code>
 </p>
 <hr>
-<!--
-**berkayuzm/berkayuzm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on Find to Learn https://play.google.com/store/apps/details?id=com.berkayuzumcu.FindtoLearn <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
